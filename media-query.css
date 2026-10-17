@@ -1,0 +1,9 @@
+@media screen and (max-width: 425px){
+	.header-content-head{
+		border-right: 0px;
+		border-bottom: 4px solid #fff;
+	}
+	.header-content-desc{
+		padding: 10px 0;
+	}
+}
